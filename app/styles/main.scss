@@ -2,6 +2,9 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 
 // bower:scss
 @import "../../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+@import "animations";
+@import "component";
+@import "multilevelmenu";
 // endbower
 
 .browsehappy {
