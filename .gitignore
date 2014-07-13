@@ -6,3 +6,9 @@ bower_components
 test/bower_components
 
 *.espressostorage
+
+*.espressostorage
+
+.DS_Store
+
+*.espressostorage
